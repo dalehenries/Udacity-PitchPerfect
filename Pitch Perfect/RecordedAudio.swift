@@ -3,7 +3,7 @@
 //  Pitch Perfect
 //
 //  Created by Dale Henries on 11/9/15.
-//  Copyright © 2015 Samaritan's Purse. All rights reserved.
+//  Copyright © 2015 Dale Henries. All rights reserved.
 //
 
 import Foundation
